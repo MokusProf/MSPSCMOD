@@ -22,7 +22,12 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.DERP_CARVED_PUMPKIN)
                 .add(ModBlocks.ANGRY_CARVED_PUMPKIN)
                 .add(ModBlocks.CREEPER_CARVED_PUMPKIN)
-                .add(ModBlocks.SMOL_CARVED_PUMPKIN);
+                .add(ModBlocks.SMOL_CARVED_PUMPKIN)
+                .add(ModBlocks.SPOOKY_JACK_O_LANTERN)
+                .add(ModBlocks.DERP_JACK_O_LANTERN)
+                .add(ModBlocks.ANGRY_JACK_O_LANTERN)
+                .add(ModBlocks.CREEPER_JACK_O_LANTERN)
+                .add(ModBlocks.SMOL_JACK_O_LANTERN);
 
 
 //        getOrCreateTagBuilder(BlockTags.NEEDS_IRON_TOOL)

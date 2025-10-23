@@ -25,8 +25,19 @@ public class ModBlocks {
     public static final Block SMOL_CARVED_PUMPKIN = registerBlock("smol_carved_pumpkin",
             new WearableCarvedPumpkinBlock(AbstractBlock.Settings.copy(Blocks.CARVED_PUMPKIN)));
 
+    public static final Block SPOOKY_JACK_O_LANTERN = registerBlock("spooky_jack_o_lantern",
+            new WearableCarvedPumpkinBlock(AbstractBlock.Settings.copy(Blocks.JACK_O_LANTERN)));
+    public static final Block CREEPER_JACK_O_LANTERN = registerBlock("creeper_jack_o_lantern",
+            new WearableCarvedPumpkinBlock(AbstractBlock.Settings.copy(Blocks.JACK_O_LANTERN)));
+    public static final Block DERP_JACK_O_LANTERN = registerBlock("derp_jack_o_lantern",
+            new WearableCarvedPumpkinBlock(AbstractBlock.Settings.copy(Blocks.JACK_O_LANTERN)));
+    public static final Block ANGRY_JACK_O_LANTERN = registerBlock("angry_jack_o_lantern",
+            new WearableCarvedPumpkinBlock(AbstractBlock.Settings.copy(Blocks.JACK_O_LANTERN)));
+    public static final Block SMOL_JACK_O_LANTERN = registerBlock("smol_jack_o_lantern",
+            new CarvedPumpkinBlock(AbstractBlock.Settings.copy(Blocks.JACK_O_LANTERN)));
+
     public static final Block CANDY_BASKET = registerBlock("candy_basket",
-            new CarvedPumpkinBlock(AbstractBlock.Settings.copy(Blocks.WHITE_WOOL)));
+            new CandyBasket(AbstractBlock.Settings.copy(Blocks.WHITE_WOOL)));
 
 
 

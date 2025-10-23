@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "DCA",
+    "EXB",
+    "FGH"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:heavy_core"
+    },
+    "A": {
+      "item": "mokus_halloween:lollipop"
+    },
+    "B": {
+      "item": "mokus_halloween:gummy_bear"
+    },
+    "C": {
+      "item": "mokus_halloween:gummy_eye"
+    },
+    "D": {
+      "item": "mokus_halloween:candy_corn"
+    },
+    "E": {
+      "item": "mokus_halloween:caramel"
+    },
+    "F": {
+      "item": "mokus_halloween:caramel_apple"
+    },
+    "G": {
+      "item": "minecraft:breeze_rod"
+    },
+    "H": {
+      "item": "mokus_halloween:spooky_carved_pumpkin"
+    }
+  },
+  "result": {
+    "id": "mokus_halloween:spooky_mace",
+    "count": 1
+  }
+}

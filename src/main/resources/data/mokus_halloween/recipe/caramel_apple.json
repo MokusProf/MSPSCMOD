@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " X ",
+    "XAX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "mokus_halloween:caramel"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "id": "mokus_halloween:caramel_apple",
+    "count": 1
+  }
+}

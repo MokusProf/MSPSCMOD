@@ -19,15 +19,20 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
         getOrCreateTagBuilder(ItemTags.MACE_ENCHANTABLE)
                 .add(ModItems.SPOOKY_MACE);
         getOrCreateTagBuilder(ItemTags.VANISHING_ENCHANTABLE)
-                .add(ModItems.SPOOKY_MACE);
+                .add(ModItems.SPOOKY_MACE)
+                .add(ModItems.LOLLIPOP);
         getOrCreateTagBuilder(ItemTags.WEAPON_ENCHANTABLE)
-                .add(ModItems.SPOOKY_MACE);
+                .add(ModItems.SPOOKY_MACE)
+                .add(ModItems.LOLLIPOP);
         getOrCreateTagBuilder(ItemTags.DURABILITY_ENCHANTABLE)
-                .add(ModItems.SPOOKY_MACE);
+                .add(ModItems.SPOOKY_MACE)
+                .add(ModItems.LOLLIPOP);
         getOrCreateTagBuilder(ItemTags.FIRE_ASPECT_ENCHANTABLE)
-                .add(ModItems.SPOOKY_MACE);
+                .add(ModItems.SPOOKY_MACE)
+                .add(ModItems.LOLLIPOP);
         getOrCreateTagBuilder(ItemTags.BREAKS_DECORATED_POTS)
-                .add(ModItems.SPOOKY_MACE);
+                .add(ModItems.SPOOKY_MACE)
+                .add(ModItems.LOLLIPOP);
 
     }
 }

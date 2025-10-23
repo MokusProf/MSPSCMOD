@@ -1,11 +1,20 @@
 {
   "itemgroup.mokus_halloween.spooky_season_itemgroup": "Spooky Season",
 
-  "item.mokus_halloween.spooky_mace": "Spooky Mace",
+  "item.mokus_halloween.spooky_mace": "Pumpkin Smasher",
+  "item.mokus_halloween.lollipop": "Lollipop",
+
+  "item.mokus_halloween.gummy_eye": "Gummy Eye",
+  "item.mokus_halloween.gummy_bear": "Gummy Bear",
+  "item.mokus_halloween.caramel": "Caramel",
+  "item.mokus_halloween.caramel_apple": "Caramel Apple",
+  "item.mokus_halloween.candy_corn": "Candy Corn",
+
 
   "enchantment.mokus_halloween.spooky": "Spooked",
 
-
+  "effect.mokus_halloween.spooked_effect": "Spooked",
+  "effect.mokus_halloween.sugar_frenzy": "Sugar Frenzy",
 
 
   "block.mokus_halloween.smol_carved_pumpkin": "Smol Carved Pumpkin",
@@ -13,6 +22,14 @@
   "block.mokus_halloween.angry_carved_pumpkin": "Angry Carved Pumpkin",
   "block.mokus_halloween.derp_carved_pumpkin": "Derp Carved Pumpkin",
   "block.mokus_halloween.spooky_carved_pumpkin": "Spooky Carved Pumpkin",
+
+  "block.mokus_halloween.smol_jack_o_lantern": "Smol Jack o'Lantern",
+  "block.mokus_halloween.creeper_jack_o_lantern": "Creeper Jack o'Lantern",
+  "block.mokus_halloween.angry_jack_o_lantern": "Angry Jack o'Lantern",
+  "block.mokus_halloween.derp_jack_o_lantern": "Derp Jack o'Lantern",
+  "block.mokus_halloween.spooky_jack_o_lantern": "Spooky Jack o'Lantern",
+
+  "block.mokus_halloween.candy_basket": "Candy Basket",
 
 
 

@@ -19,8 +19,13 @@ public class ModItemGroup {
                     .entries((displayContext, entries) -> {
 
                         entries.add(ModItems.SPOOKY_MACE);
+                        entries.add(ModItems.LOLLIPOP);
                         entries.add(ModItems.GUMMY_EYE);
+                        entries.add(ModItems.GUMMY_BEAR);
+
                         entries.add(ModItems.CANDY_CORN);
+                        entries.add(ModItems.CARAMEL);
+                        entries.add(ModItems.CARAMEL_APPLE);
 
                         entries.add(ModBlocks.CANDY_BASKET);
 
@@ -29,6 +34,12 @@ public class ModItemGroup {
                         entries.add(ModBlocks.DERP_CARVED_PUMPKIN);
                         entries.add(ModBlocks.ANGRY_CARVED_PUMPKIN);
                         entries.add(ModBlocks.SMOL_CARVED_PUMPKIN);
+
+                        entries.add(ModBlocks.SPOOKY_JACK_O_LANTERN);
+                        entries.add(ModBlocks.CREEPER_JACK_O_LANTERN);
+                        entries.add(ModBlocks.DERP_JACK_O_LANTERN);
+                        entries.add(ModBlocks.ANGRY_JACK_O_LANTERN);
+                        entries.add(ModBlocks.SMOL_JACK_O_LANTERN);
 
 
 

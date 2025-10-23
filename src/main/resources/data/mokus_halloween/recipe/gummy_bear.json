@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " AA",
+    " XB",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:bone"
+    },
+    "A": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "id": "mokus_halloween:gummy_bear",
+    "count": 1
+  }
+}

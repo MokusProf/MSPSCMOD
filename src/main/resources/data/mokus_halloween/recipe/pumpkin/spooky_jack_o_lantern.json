@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "mokus_halloween:spooky_carved_pumpkin"
+    }
+  ],
+  "result": {
+    "id": "mokus_halloween:spooky_jack_o_lantern"
+  }
+}

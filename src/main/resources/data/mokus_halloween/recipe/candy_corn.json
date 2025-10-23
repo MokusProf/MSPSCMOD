@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " AA",
+    " XB",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:orange_dye"
+    },
+    "A": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "id": "mokus_halloween:candy_corn",
+    "count": 1
+  }
+}

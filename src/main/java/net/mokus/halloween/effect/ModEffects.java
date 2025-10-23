@@ -22,7 +22,7 @@ public class ModEffects {
                     .fadeTicks(10));
 
     public static final RegistryEntry<StatusEffect> SUGAR_FRENZY = registerStatusEffect("sugar_frenzy",
-            new SugarFrenzyEffect(StatusEffectCategory.HARMFUL,0xe38a1d, ParticleTypes.CRIT)
+            new SugarFrenzyEffect(StatusEffectCategory.BENEFICIAL,0xe38a1d, ParticleTypes.CRIT)
                     .addAttributeModifier(EntityAttributes.GENERIC_MOVEMENT_SPEED,
                             Identifier.of(MokusSpookySeason.MOD_ID,"sugar_frenzy"),1.0f, EntityAttributeModifier.Operation.ADD_MULTIPLIED_TOTAL)
                     .addAttributeModifier(EntityAttributes.GENERIC_ATTACK_SPEED,

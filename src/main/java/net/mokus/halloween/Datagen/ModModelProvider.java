@@ -29,6 +29,12 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerNorthDefaultHorizontalRotatable(ModBlocks.ANGRY_CARVED_PUMPKIN,textureMap);
         blockStateModelGenerator.registerNorthDefaultHorizontalRotatable(ModBlocks.SMOL_CARVED_PUMPKIN,textureMap);
 
+        blockStateModelGenerator.registerNorthDefaultHorizontalRotatable(ModBlocks.SPOOKY_JACK_O_LANTERN,textureMap);
+        blockStateModelGenerator.registerNorthDefaultHorizontalRotatable(ModBlocks.DERP_JACK_O_LANTERN,textureMap);
+        blockStateModelGenerator.registerNorthDefaultHorizontalRotatable(ModBlocks.CREEPER_JACK_O_LANTERN,textureMap);
+        blockStateModelGenerator.registerNorthDefaultHorizontalRotatable(ModBlocks.ANGRY_JACK_O_LANTERN,textureMap);
+        blockStateModelGenerator.registerNorthDefaultHorizontalRotatable(ModBlocks.SMOL_JACK_O_LANTERN,textureMap);
+
 
 
         registerLitBlock(blockStateModelGenerator, ModBlocks.BIG_CANDLE, "big_candle");
@@ -55,7 +61,12 @@ public class ModModelProvider extends FabricModelProvider {
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
         itemModelGenerator.register(ModItems.SPOOKY_MACE, Models.HANDHELD_MACE);
         itemModelGenerator.register(ModItems.GUMMY_EYE,Models.GENERATED);
+        itemModelGenerator.register(ModItems.GUMMY_BEAR,Models.GENERATED);
+
         itemModelGenerator.register(ModItems.CANDY_CORN,Models.GENERATED);
+        itemModelGenerator.register(ModItems.LOLLIPOP,Models.HANDHELD);
+        itemModelGenerator.register(ModItems.CARAMEL,Models.GENERATED);
+        itemModelGenerator.register(ModItems.CARAMEL_APPLE,Models.GENERATED);
 
 
 

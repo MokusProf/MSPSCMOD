@@ -20,6 +20,14 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(ModBlocks.CREEPER_CARVED_PUMPKIN);
         addDrop(ModBlocks.SMOL_CARVED_PUMPKIN);
 
+        addDrop(ModBlocks.SPOOKY_JACK_O_LANTERN);
+        addDrop(ModBlocks.DERP_JACK_O_LANTERN);
+        addDrop(ModBlocks.ANGRY_JACK_O_LANTERN);
+        addDrop(ModBlocks.CREEPER_JACK_O_LANTERN);
+        addDrop(ModBlocks.SMOL_JACK_O_LANTERN);
+
+        addDrop(ModBlocks.CANDY_BASKET);
+
         addDrop(ModBlocks.BIG_CANDLE);
         addDrop(ModBlocks.WHITE_BIG_CANDLE);
         addDrop(ModBlocks.LIGHT_GRAY_BIG_CANDLE);
