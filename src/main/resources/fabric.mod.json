@@ -2,14 +2,13 @@
 	"schemaVersion": 1,
 	"id": "mokus_halloween",
 	"version": "${version}",
-	"name": "Mokus Spooky Season",
+	"name": "Spooky Season",
 	"description": "Spooky Scary Skeletons",
 	"authors": [
 		"_Mokus"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/MokusProf/MSPSCMOD"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/mokus_halloween/icon.png",
