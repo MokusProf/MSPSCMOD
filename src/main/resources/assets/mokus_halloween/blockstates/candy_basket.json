@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mokus_halloween:block/candy_basket",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "mokus_halloween:block/candy_basket"
+    },
+    "facing=south": {
+      "model": "mokus_halloween:block/candy_basket",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mokus_halloween:block/candy_basket",
+      "y": 270
+    }
+  }
+}
